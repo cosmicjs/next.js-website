@@ -24,15 +24,6 @@ yarn start
 ```
 Open [http://localhost:3000](http://localhost:3000).
 
-### Next.js + React + Cosmic
-You can easily manage the content in your Next.js website on Cosmic.  Follow these steps:
-
-1. [Log in to Cosmic](https://cosmicjs.com).
-2. Create a Bucket.
-3. Go to Your Bucket > Apps.
-4. Install the [Next.js Website](https://cosmicjs.com/apps/next.js-website).
-5. Deploy your Next.js Website to the Cosmic App Server at Your Bucket > Web Hosting.
-
 ### Benefits
 #### Next.js
 [Next.js](https://github.com/zeit/next.js) is a gift to the React community.  Building React universal applications is not an easy task and the Next.js framework has greatly simplified the process.  Some immediate benefits include:
