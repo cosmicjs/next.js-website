@@ -24,10 +24,10 @@ yarn start
 ```
 Open [http://localhost:3000](http://localhost:3000).
 
-### Next.js + React + Cosmic JS
-You can easily manage the content in your Next.js website on Cosmic JS.  Follow these steps:
+### Next.js + React + Cosmic
+You can easily manage the content in your Next.js website on Cosmic.  Follow these steps:
 
-1. [Log in to Cosmic JS](https://cosmicjs.com).
+1. [Log in to Cosmic](https://cosmicjs.com).
 2. Create a Bucket.
 3. Go to Your Bucket > Apps.
 4. Install the [Next.js Website](https://cosmicjs.com/apps/next.js-website).
@@ -43,11 +43,11 @@ You can easily manage the content in your Next.js website on Cosmic JS.  Follow 
 
 [... see more on their GitHub page](https://github.com/zeit/next.js).
 
-#### Cosmic JS
-Cosmic JS is a perfect backend to manage your Next.js React Universal application.
+#### Cosmic
+Cosmic is a perfect backend to manage your Next.js React Universal application.
 
-1. Query each page easily using the [Cosmic JS NPM Module](https://github.com/cosmicjs/cosmicjs-node).
+1. Query each page easily using the [Cosmic NPM Module](https://github.com/cosmicjs/cosmicjs-node).
 2. No CMS boilerplate to configure, fast and easy setup.
 3. No updates or security updates required.
 
-[... see more on the Cosmic JS website](https://cosmicjs.com).
+[... see more on the Cosmic website](https://cosmicjs.com).
