@@ -1,9 +1,8 @@
 module.exports = {
   cosmic: {
     bucket: {
-      slug: 'nextjs-website',
-      read_key: '',
-      write_key: ''
+      slug: process.env.COSMIC_BUCKET,
+      read_key: process.env.COSMIC_READ_KEY
     }
   }
 }

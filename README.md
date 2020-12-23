@@ -7,13 +7,20 @@ git clone https://github.com/cosmicjs/next.js-website
 cd next.js-website
 yarn
 ```
-#### Run in development
+#### Get your Bucket keys from Cosmic
+1. Install the [app demo content in Cosmic](https://www.cosmicjs.com/apps/nextjs-website). Click Select App add and follow the steps to install.
+2. Go to Bucket Settings > API Access to get your Bucket slug and read key.
+#### Run in development with your Bucket keys
 ```
+COSMIC_BUCKET=your-bucket-slug \
+COSMIC_READ_KEY=your-bucket-read-key \
 yarn run development
 ```
 #### Run in production
 ```
-COSMIC_BUCKET=your-bucket-slug yarn start
+COSMIC_BUCKET=your-bucket-slug \
+COSMIC_READ_KEY=your-bucket-read-key \
+yarn start
 ```
 Open [http://localhost:3000](http://localhost:3000).
 
