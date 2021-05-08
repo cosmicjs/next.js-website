@@ -1174,11 +1174,6 @@ enhanced-resolve@~0.9.0:
     memory-fs "^0.2.0"
     tapable "^0.1.8"
 
-env-var@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/env-var/-/env-var-7.0.0.tgz#db3e4733ec419d8fa3bc49b67a4d2ff8cbb14294"
-  integrity sha512-XnoXQhg98QpSQqpBjySM3VjXGVrIvisgFbFURxAxOymarLzlcdvy6Y3qlnvZFaAp5j99qwSbRwqbrZtug/0x9w==
-
 err-code@^1.0.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/err-code/-/err-code-1.1.1.tgz#739d71b6851f24d050ea18c79a5b722420771d59"
@@ -3067,8 +3062,9 @@ typedarray@~0.0.5:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
 ua-parser-js@^0.7.9:
-  version "0.7.12"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.12.tgz#04c81a99bdd5dc52263ea29d24c6bf8d4818a4bb"
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uglify-js@~2.6.0:
   version "2.6.4"
