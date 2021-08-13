@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "cosmicjs": "^2.35.0",
-    "next": "^1.1.2",
+    "next": "^11.1.0",
     "shorti": "^1.2.6",
     "yarn": "^0.17.9"
   },
